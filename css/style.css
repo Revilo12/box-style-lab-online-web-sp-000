@@ -47,6 +47,10 @@ h4.indifferent {
   box-shadow:  -1px 1px #804000, -2px 2px #804000, -3px 3px #804000, -4px 4px #804000, -5px 5px #804000;
 }
 
+h4.dubious {
+  background: linear-gradient(to right, #804000, #dd4444)
+}
+
 .column {
   width: 30%;
   display: inline-block;
